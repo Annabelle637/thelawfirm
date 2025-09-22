@@ -4,7 +4,7 @@ git init
 git add .
 git commit -m "Initial commit - The Law Firm site"
 git branch -M main
-git remote add origin https://github.com/yourusername/thelawfirm.git
+git remote add origin https://github.com/annabelle637/thelawfirm.git
 git push -u origin main
 ---
 
